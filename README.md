@@ -1,6 +1,8 @@
 # Adaptive Step Size Strategies for Inexact First-Order Methods
 
 ![Suboptimality Plot](./summary_plot.png) 
+
+
 *Figure 1: Comparison of optimization trajectories under persistently inexact gradients.*
 
 ## 📌 Project Overview
