@@ -5,8 +5,6 @@
   <p><i>Figure 1: Comparison of optimization trajectories under persistently inexact gradients.</i></p>
 </div>
 
-*Figure 1: Comparison of optimization trajectories under persistently inexact gradients.*
-
 ## 📌 Project Overview
 This project investigates the convergence behavior of **inexact first-order methods** under **strong convexity**. 
 In practical machine learning and large-scale optimization, exact gradient information is often unavailable due to numerical errors, truncation, or partial computations.
